@@ -13,7 +13,7 @@ configure the ESA package source and download the library.
    2. Navigate to "NuGet Package Manager" -> "Package Sources"
    3. Click the "+" icon in the top right of the window and fill in the details at the bottom:
       - Name: ESET Secure Authentication Cloud
-      - Source: https://esa.eset.com/apiclient/packages/nuget
+      - Source: https://esa.eset.com/sdk/packages/nuget
    4. Click "Update" and then "OK" to close the dialogs
 
 2. Download the library:
