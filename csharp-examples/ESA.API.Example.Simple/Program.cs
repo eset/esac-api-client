@@ -30,7 +30,7 @@ namespace ESA.API.Example.Simple
             }
             catch (ApiException e)
             {
-                Debug.Print("Exception when calling DefaultApi.Ping: " + e.Message);
+                Debug.Print("Exception when calling EsaApi.Ping: " + e.Message);
                 Debug.Print("Status Code: " + e.ErrorCode);
                 Debug.Print(e.StackTrace);
             }

@@ -19,10 +19,10 @@ configure the ESA package source and download the library.
 2. Download the library:
 
    1. In the Visual Studio Solution Explorer, right-click the solution (ESA.API.Examples)
-      and select "Manage NuGet packages for solution..."
-   2. In the NuGet package window, expand the "Online" -> "ESET Secure Authentication Cloud" source
-   3. Find the "ESA.API" package and click the "Install" button
-   4. Select the checkbox next to the projects and click "OK"
+      and select "Manage NuGet Packages for Solution..."
+   2. In the NuGet package window, expand the "ESET Secure Authentication Cloud" Package source
+   3. Click the "ESA.API" package
+   4. Select the checkbox next to the projects and click "Install"
    5. Read and accept the API Client license
    6. After installation, close the NuGet window
 
