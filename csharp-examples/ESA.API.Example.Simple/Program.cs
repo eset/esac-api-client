@@ -1,6 +1,6 @@
 ﻿/**
  * ESET Secure Authentication API Client
- * @copyright (c) 2012-2024 ESET, spol. s r.o. All rights reserved.
+ * @copyright (c) 2012-2025 ESET, spol. s r.o. All rights reserved.
  */
 
 using ESA.API.Api;
